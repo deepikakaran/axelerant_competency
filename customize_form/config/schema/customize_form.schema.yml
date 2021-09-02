@@ -1,0 +1,6 @@
+# Schema for the configuration files of the Customize Form module.
+system.site:
+  mapping:
+    siteapikey:
+      type: label
+      label: 'Site API Key'

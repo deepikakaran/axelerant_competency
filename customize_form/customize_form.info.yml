@@ -1,0 +1,7 @@
+name: 'Site Information Form Customization'
+type: module
+description: 'Custom module to customize site information form.'
+core: 8.x
+core_version_requirement: '^8 || ^9'
+package: Custom Modules
+

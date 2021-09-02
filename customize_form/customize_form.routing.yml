@@ -1,0 +1,7 @@
+customize_form.export_data:
+  path: '/page_json/{api_key}/{nid}'
+  defaults:
+    _controller: '\Drupal\customize_form\Controller\ExportData::getJsonData'
+    _title: 'Export Json Data'
+  requirements:
+    _access: 'TRUE'
